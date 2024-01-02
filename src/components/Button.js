@@ -1,4 +1,4 @@
-cedrdrd import React from "react";
+ import React from "react";
 
 function Button({ handleClick, children }) {
   console.log("Rendering button-", children);
