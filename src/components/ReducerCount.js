@@ -1,5 +1,5 @@
 import React, { useReducer } from "react";
-frfrfr
+
 const initialState = 0;
 const reducer = (state, action) => {
   switch (action) {
