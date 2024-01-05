@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 
 function DataFetching2() {
   const [post, setPost] = useState({});
-  const [id, setId] = useState(1);edecede
+  const [id, setId] = useState(1);
 
   useEffect(() => {
     axios
