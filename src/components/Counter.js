@@ -1,4 +1,4 @@
-jajajimport React, { useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 
 function Counter() {
   const [counterOne, setCounterOne] = useState(0);
