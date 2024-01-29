@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";frfdrf
+import React, { useEffect, useRef } from "react";
 
 function FocusInput() {
   const inputRef = useRef(null);
