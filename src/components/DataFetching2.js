@@ -1,5 +1,5 @@
 import axios from "axios";
-import React, { useEffect, useState } from "react";deded
+import React, { useEffect, useState } from "react";
 
 function DataFetching2() {
   const [post, setPost] = useState({});
